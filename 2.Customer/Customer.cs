@@ -28,5 +28,3 @@ namespace _2.Customer
         }
     }
 }
-
-//first name, middle name and last name, ID (EGN), permanent address, mobile phone, e-mail, list of payments and customer type. 
